@@ -1,4 +1,4 @@
-name := """aevi"""
+name := """gov.uk.voa"""
 
 version := "1.0-SNAPSHOT"
 
