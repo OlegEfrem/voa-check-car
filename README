@@ -1,0 +1,25 @@
+VOA – Scala Technical Test
+
+We would like to assess your ability or potential to create well structured, maintainable applications in Scala using the Play Framework. We'd like you to implement the DVLA "Check Your Car Disc" service (https://www.gov.uk/get-vehicle-information-from-dvla). 
+
+Please spend no more than an hour on this task. What's important for us is that we understand if you are able to create applications with the Play framework and Scala. If your sample gives us this confidence we can then progress to the next stage.
+
+1. The user journey begins with the big green "Start Now". You do not need to implement anything else on the first page
+
+2. The HTML and CSS styling should render as the live DVLA site 
+
+3. You will need to use test data to implement the search functionality
+
+4. Once you have implemented the search functionality the challenge is complete
+
+5. Some level of testing is required
+
+6. You may encounter ambiguities or feel uncertain about parts of the task. Please do what you feel is best and document any decisions you made. Remember, we are only concerned with the quality of the code at this stage.
+
+7. If you finish the task and have time to spare (within the 1 hour) please feel free to over-engineer the solution to show your advanced knowledge of Scala and the Play Framework. But please make a note of this so we understand why the code is over-engineered
+
+
+
+Please use git to version control your exercise. Please compress your answers and submit them via your agent (using GitHub). Do not send binaries as they won’t get through our firewalls.
+
+

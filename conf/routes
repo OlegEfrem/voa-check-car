@@ -1,0 +1,11 @@
+# Routes
+# This file defines all application routes (Higher priority routes first)
+# ~~~~
+
+#saple get /check/car/WDZ54DMB/Audi?v5c=12344553456
+GET      /check/car/:regNumber/:make          controllers.CarCheckController.findCar(regNumber: String, make: String, v5c: Option[Long])
+
+
+
+# Map static resources from the /public folder to the /assets URL path
+GET     /assets/*file                          controllers.Assets.versioned(path="/public", file: Asset)
